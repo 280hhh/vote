@@ -1,19 +1,9 @@
-# tpxt
+# 投票系统
 
-## Project setup
-```
-yarn install
-```
+基于Vue+element ui的静态投票网站
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+可实现投票和结果查看功能
 
-### Compiles and minifies for production
-```
-yarn build
-```
+未登录不能投票
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+觉得有用的话麻烦给个star啦
